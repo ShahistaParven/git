@@ -16,5 +16,6 @@ public class Demo {
 		driver.findElement(By.id("LoginForm_password")).sendKeys("sharukh@111");
 		WebElement ele= driver.findElement(By.name("yt0"));
 		ele.click();
+		//commit
 }
 }
